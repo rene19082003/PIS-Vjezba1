@@ -13,3 +13,5 @@ if __name__ == "__README.md__":
 
 def nova_funkcija():
     return "Ovo je nova funkcija."
+
+#Ovo je moj komentar - Zvonimir Damjanovic

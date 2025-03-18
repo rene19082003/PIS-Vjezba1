@@ -15,6 +15,13 @@ def nova_funkcija():
     return "Ovo je nova funkcija."
 
 #Ovo je moj komentar - Zvonimir Damjanovic
+<<<<<<< HEAD
 def nova_metoda(self):
     return "Ovo je nova metoda"
 
+=======
+
+
+def nova_metoda():
+    return "Ovo je nova metoda 2."
+>>>>>>> 3731fc075f0334e749a3a2f2d1057f7987bf25a2

@@ -11,3 +11,5 @@ def README.md():
 if __name__ == "__README.md__":
     README.md()
 
+def nova_funkcija():
+    return "Ovo je nova funkcija."
